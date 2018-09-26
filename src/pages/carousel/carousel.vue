@@ -1,5 +1,7 @@
 <template>
-<div>轮播图</div>
+  <div>
+
+  </div>
 </template>
 
 <script>
