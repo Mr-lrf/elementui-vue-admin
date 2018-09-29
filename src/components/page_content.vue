@@ -1,5 +1,5 @@
 <template>
-  <div class="container">
+  <div class="content-box">
     <el-card class="my-card">
       <!--面包屑-->
       <el-breadcrumb separator-class="el-icon-arrow-right" class="breadcrumb">
@@ -29,7 +29,7 @@
 </script>
 
 <style scoped>
-  .container{
+  .content-box{
     background: #FAFAFA;
     width: 100%;
   }

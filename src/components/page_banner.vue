@@ -85,7 +85,7 @@
       if(urlIndex !== "home"){
         this.active = localStorage.getItem('router');
       }else {
-        this.active = '';
+        this.active = ''
       }
     },
     data(){
