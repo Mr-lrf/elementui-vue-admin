@@ -1,6 +1,6 @@
 # element-vue-admin
 
-> A Vue.js project 基于element-ui使用VUE编写的后台管理系统demo
+> A Vue.js project 
 
 ## Build Setup
 
