@@ -5,7 +5,7 @@
     <el-dropdown class="user-list" @command="handleCommand">
       <div>
         <div class="user-logo"><img src="../../static/user.jpg" alt=""></div>
-        <span>admin</span>
+        <span style="color: white">admin</span>
       </div>
       <el-dropdown-menu slot="dropdown">
         <el-dropdown-item command ="1">修改密码</el-dropdown-item>
